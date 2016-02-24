@@ -1,0 +1,17 @@
+html {
+  line-height: 1.5;
+  background-color: #c9b5ae;
+  font-family: "PT Serif", serif;
+}
+
+h1, h2 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1;
+  font-family: "Bevan", cursive;
+}
+
+nav ol {
+  color: #a92443;
+  list-style-type: none;
+}
